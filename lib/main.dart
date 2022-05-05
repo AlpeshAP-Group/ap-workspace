@@ -114,7 +114,6 @@ class _MyHomePageState extends State<MyHomePage> {
         );
       }
     });
-
     // FirebaseMessaging.onMessageOpenedApp.listen((RemoteMessage message) {
     //   Navigator.pushNamed(
     //     context,
@@ -122,7 +121,6 @@ class _MyHomePageState extends State<MyHomePage> {
     //     arguments: MessageArguments(message, true),
     //   );
     // });
-
     super.initState();
   }
 
