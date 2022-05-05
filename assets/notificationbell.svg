@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Group_3973" data-name="Group 3973" transform="translate(-316 -48)">
+    <rect id="Hamburger_Icon_Background" data-name="Hamburger Icon Background" width="44" height="44" rx="11" transform="translate(316 48)" fill="#fff" opacity="0.3"/>
+    <g id="Group_3811" data-name="Group 3811" transform="translate(9 25)">
+      <g id="Group_7" data-name="Group 7" transform="translate(312.329 35.766)">
+        <path id="Path_162" data-name="Path 162" d="M28.337,15.6A5.086,5.086,0,0,1,27.2,12.415V10.178a5.575,5.575,0,0,0-4.365-5.44V3.685a1.185,1.185,0,1,0-2.369,0V4.738a5.556,5.556,0,0,0-4.365,5.44v2.238A4.961,4.961,0,0,1,14.955,15.6L13.968,16.8a1.292,1.292,0,0,0,.987,2.106h13.36A1.284,1.284,0,0,0,29.3,16.8Z" transform="translate(-5.537 0)" fill="#fff"/>
+        <path id="Path_163" data-name="Path 163" d="M8.585,11.688A7.493,7.493,0,0,1,10.844,6.84.993.993,0,1,0,9.462,5.414a9.546,9.546,0,0,0-2.874,6.12.972.972,0,0,0,.921,1.053h.066A.971.971,0,0,0,8.585,11.688Z" transform="translate(0 -2.059)" fill="#fff"/>
+        <path id="Path_164" data-name="Path 164" d="M74.388,5.414a1,1,0,0,0-1.4.022.98.98,0,0,0,.022,1.4,7.6,7.6,0,0,1,2.26,4.848,1,1,0,0,0,.987.921h.066a.985.985,0,0,0,.921-1.053A9.632,9.632,0,0,0,74.388,5.414Z" transform="translate(-51.61 -2.059)" fill="#fff"/>
+        <path id="Path_165" data-name="Path 165" d="M39.852,87.352A2.846,2.846,0,0,0,42.7,84.5H37A2.846,2.846,0,0,0,39.852,87.352Z" transform="translate(-23.742 -64.012)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "362356262617",
+    "firebase_url": "https://dcl-ios-default-rtdb.firebaseio.com",
+    "project_id": "dcl-ios",
+    "storage_bucket": "dcl-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362356262617:android:6dd14f1b6e104f597ae0c8",
+        "android_client_info": {
+          "package_name": "app.dcl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362356262617-g5cdmvd20bc2v932rlbvcu7ds751kplo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.dcl",
+            "certificate_hash": "519bd940abd6a8a20d2a5659e4d7ccbd072cad12"
+          }
+        },
+        {
+          "client_id": "362356262617-8kn5qhp93p5f6mshkb3j4vjac5s69q2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh9H5mmR-l5Kr2Q1D0XO-cpRzn6gyd47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362356262617-8kn5qhp93p5f6mshkb3j4vjac5s69q2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362356262617-l56jpdn84b3khv3c1l43sdnmsbi4qmml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.dcl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
