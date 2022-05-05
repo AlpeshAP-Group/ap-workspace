@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
         );
       }
     });
-    // FirebaseMessaging.onMessageOpenedApp.listen((RemoteMessage message) {
+// FirebaseMessaging.onMessageOpenedApp.listen((RemoteMessage message) {
     //   Navigator.pushNamed(
     //     context,
     //     '/message',
